@@ -1,5 +1,7 @@
+/* index page styles */
+
 h1 {
-    color: rgb(199, 226, 236);
+    color: cornflowerblue;
 }
 
 .hot-chocolate,
@@ -21,4 +23,62 @@ h1 {
 .scones {
     background-color: rgb(112, 221, 121);
     color:rgb(60, 60, 131)
+}
+
+/* chocolate chip scones styles */
+
+.heading {
+    color:rgb(241, 141, 157)
+}
+
+.scone-ingredients,
+.scone-steps {
+    color: rgb(77, 38, 38);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+/* roasted red pepper soup styles */
+
+.soup-heading,
+.soup-ingredients,
+.soup-steps {
+    color: rgb(223, 80, 28);
+}
+
+.soup-heading {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.soup-image {
+    height: 500px;
+    width: auto;
+}
+
+/* spiced hot chocolate styles */
+
+.heading-1-chocolate {
+    color: rgb(102, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: chocolate;
+}
+
+.chocolate-image {
+    height: 400px;
+    width:auto;
+}
+
+.steps-color,
+.ingredients-color {
+    color: rgb(102, 23, 23);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.index-page {
+    color: black;
+    background-color: rosybrown;
+    font-size: 20px;
 }
